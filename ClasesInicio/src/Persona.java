@@ -9,4 +9,7 @@ public class Persona {
    Integer DNI;
 
 
+   //Perro
+   //Carro
+   //Televisor
 }
