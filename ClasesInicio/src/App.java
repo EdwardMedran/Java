@@ -7,15 +7,7 @@ public class App {
         Carro Volvo = new Carro();
         Televisor Samsung = new Televisor();
 
-        Pedro.nombre = "Pedro";
-        Pedro.apellido = "Huertas";
-        Pedro.peso = 40.0 ;
-        Pedro.DNI = 12456874;
 
-        Javier.nombre = "Pedro";
-        Javier.apellido = "Huertas";
-        Javier.peso = 40.0 ;
-        Javier.DNI = 12456874;
 
         Sam.nombre = "Sam";
         Sam.raza = "rottwailer";

@@ -2,11 +2,11 @@ public class Persona {
     // atributos
     /// metodos
 
-
-   String nombre;
-   String apellido;
-   Double peso;
-   Integer DNI;
+   //encapsulamiento
+   private String nombre;
+   private String apellido;
+   private Double peso;
+   private Integer DNI;
 
 
    //Perro
