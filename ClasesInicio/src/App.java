@@ -6,6 +6,11 @@ public class App {
         Perro Sam = new Perro();
         Carro Volvo = new Carro();
         Televisor Samsung = new Televisor();
+        Pedro.modificarNombre("Javier");
+
+
+
+        System.out.println("El nombre de la persona es "+Pedro.obtenerNombre());
 
 
 
