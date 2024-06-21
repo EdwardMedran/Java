@@ -9,11 +9,6 @@ public class App {
 
 
 
-        Sam.nombre = "Sam";
-        Sam.raza = "rottwailer";
-        Sam.peso = 25;
-        Sam.Edad = 2;
-
         Volvo.TamañoMotor = 2200;
         Volvo.Llantas = 4;
         Volvo.Marca = "Volvo";
