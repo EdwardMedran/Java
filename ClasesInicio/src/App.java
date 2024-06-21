@@ -9,13 +9,5 @@ public class App {
 
 
 
-        Volvo.TamañoMotor = 2200;
-        Volvo.Llantas = 4;
-        Volvo.Marca = "Volvo";
-        Volvo.Modelo = 850;
-
-        Samsung.Marca = "Samsung";
-        Samsung.Pulgadas = 50;
-
     }
 }

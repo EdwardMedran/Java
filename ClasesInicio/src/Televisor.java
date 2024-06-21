@@ -1,6 +1,6 @@
 public class Televisor {
 
-    String Marca;
-    Integer Pulgadas;
+    private String Marca;
+    private Integer Pulgadas;
 
 }
