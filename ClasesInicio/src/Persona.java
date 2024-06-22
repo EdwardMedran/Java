@@ -36,5 +36,35 @@ public class Persona {
       return this.apellido;
    }
 
+   public void modificarPeso(double peso){
+      this.peso = peso;
+   }
 
+   public double obtenerPeso(){
+      return this.peso;
+   }
+
+   public String nombreCompleto(){
+      return this.nombre +" "+ this.apellido;
+   }
+
+
+   public Integer suma(Integer v1, Integer v2){
+      return v1 * v2;
+   }
+
+   public String nombrePeso(){
+      return this.nombre +" y "+ this.peso;
+   }
+
+   public Integer multiplicacionResta(Integer n1, Integer n2){
+
+      Integer multiplicacion;
+      multiplicacion = n1 * n2;
+
+      Integer respuesta;
+      respuesta = multiplicacion - 10;
+
+      return respuesta;
+   }
 }
