@@ -43,6 +43,10 @@ testFunciones pr3 = new testFunciones();
 Double var3 = pr3.areaTriangulo(4.0, 5.0);
 System.out.println("El area de triangulo base 4 y altura 5 es "+var3);
 
+testFunciones pr4 = new testFunciones();
+String var4 = pr4.unirPalabras("Perro", "Gato");
+        System.out.println("La union de las palabras es "+var4);
+
     }
 
 }

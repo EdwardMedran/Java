@@ -38,6 +38,11 @@ public class testFunciones {
     }
 
     //unir dos palabras
-    //
+    public String unirPalabras(String pal1, String pal2){
+
+        String respuesta = pal1+pal2;
+        return respuesta;
+
+    }
 
 }
