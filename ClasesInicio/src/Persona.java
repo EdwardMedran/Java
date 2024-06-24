@@ -20,13 +20,6 @@ public class Persona {
    private Double peso;
    private Integer DNI;
 
-   public void  modificarNombre(String nombre){
-      this.nombre = nombre;
-   }
-
-   public String obtenerNombre(){
-    return this.nombre;
-   }
 
    public void modificarApellido(String apellido){
       this.apellido = apellido;
